@@ -5,4 +5,10 @@ body {
 a {
   color: #00B7FF; }
 
+#results li.pass {
+  color: green; }
+
+#results li.fail {
+  color: red; }
+
 /*# sourceMappingURL=style.css.map */
