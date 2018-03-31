@@ -1,1 +1,1 @@
-"# book_secrets_of_the_javascript_ninja" 
+# book_secrets_of_the_javascript_ninja
